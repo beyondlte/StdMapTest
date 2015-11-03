@@ -1,5 +1,5 @@
 // MapTest.cpp : Defines the entry point for the console application.
-//
+// http://blog.csdn.net/iicy266/article/details/11906189
 
 #include "stdafx.h"
 #include <iostream>
